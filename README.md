@@ -21,7 +21,7 @@ This project was created to improve my frontend development skills and learn how
 This project is part of my CodeAlpha Internship.
 
 ## 🌐 Live Demo
-👉 https://priyasharma.github.io/image-gallery/
+👉 https://priyasharma188.github.io/image-gallery/
 
 ## 🙋‍♀️ Author
 Priya 
